@@ -1,0 +1,23 @@
+{
+  "name": "npm_gg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "scores": "3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gotzillaz/npm_gg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotzillaz/npm_gg/issues"
+  },
+  "homepage": "https://github.com/gotzillaz/npm_gg#readme"
+}
