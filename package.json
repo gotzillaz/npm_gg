@@ -4,7 +4,8 @@
   "description": "",
   "main": "example.js",
   "dependencies": {
-    "request": "2.55.0"
+    "request": "2.55.0",
+    "kibana": "5.2.0"
   },
   "devDependencies": {},
   "scripts": {
