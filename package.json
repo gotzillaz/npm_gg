@@ -4,7 +4,7 @@
   "description": "",
   "main": "example.js",
   "dependencies": {
-    "request": "2.55.0",
+    "request": "2.88.0",
     "kibana": "5.0.0",
     "cordova-android": "3.5.0"
   },
