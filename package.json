@@ -6,7 +6,7 @@
   "dependencies": {
     "request": "2.55.0",
     "kibana": "5.0.0",
-    "cordova-android": "3.5.0"
+    "cordova-android": "8.0.0"
   },
   "devDependencies": {},
   "scripts": {
